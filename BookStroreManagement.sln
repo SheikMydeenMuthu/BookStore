@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{68FC7506-4FDF-409D-B971-1AF96BE3F71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService", "BookService\BookService.csproj", "{7A5CF3F6-5E7A-4F9E-9313-E241A40CEF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FC7506-4FDF-409D-B971-1AF96BE3F71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FC7506-4FDF-409D-B971-1AF96BE3F71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FC7506-4FDF-409D-B971-1AF96BE3F71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FC7506-4FDF-409D-B971-1AF96BE3F71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF76A74E-7796-4B2F-B5FA-C0BD13D4B2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF76A74E-7796-4B2F-B5FA-C0BD13D4B2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF76A74E-7796-4B2F-B5FA-C0BD13D4B2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF76A74E-7796-4B2F-B5FA-C0BD13D4B2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5CF3F6-5E7A-4F9E-9313-E241A40CEF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5CF3F6-5E7A-4F9E-9313-E241A40CEF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5CF3F6-5E7A-4F9E-9313-E241A40CEF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5CF3F6-5E7A-4F9E-9313-E241A40CEF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7762A4D4-39A8-48EE-9C2D-D914BAD1D98F}
+	EndGlobalSection
+EndGlobal
