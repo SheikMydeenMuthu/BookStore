@@ -1,4 +1,4 @@
-﻿using BookService.Model;
+﻿using BookService.Models;
 using BookService.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;

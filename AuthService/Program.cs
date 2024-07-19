@@ -1,6 +1,6 @@
 ﻿using AuthService.Infrastructure;
 using AuthService.Infrastructure.Interfaces;
-using AuthService.Model;
+using AuthService.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

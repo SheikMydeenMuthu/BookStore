@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using AuthService.Infrastructure.Interfaces;
-using AuthService.Model;
+using AuthService.Models;
 
 namespace AuthService.Controllers
 {

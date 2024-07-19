@@ -1,5 +1,5 @@
 ﻿using System;
-using AuthService.Model;
+using AuthService.Models;
 
 namespace AuthService.Infrastructure.Interfaces
 {

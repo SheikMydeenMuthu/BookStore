@@ -1,5 +1,5 @@
 ﻿using System;
-namespace BookService.Model
+namespace AuthService.Models
 {
     public class JwtSettings
     {

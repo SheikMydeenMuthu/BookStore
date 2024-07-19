@@ -1,5 +1,5 @@
 ﻿using System;
-namespace AuthService.Model
+namespace AuthService.Models
 {
     public class UserTokens
     {

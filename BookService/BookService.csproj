@@ -14,11 +14,11 @@
   <ItemGroup>
     <None Remove="Controllers\" />
     <None Remove="Services\" />
-    <None Remove="Model\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Services\" />
-    <Folder Include="Model\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>
